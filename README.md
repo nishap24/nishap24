@@ -1,22 +1,5 @@
-### Hi there 👋
-
-<!--
-**nishap24/nishap24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Nisha P</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishap24&label=Profile%20views&color=0e75b6&style=flat" alt="nishap24" /> </p>
 
@@ -26,10 +9,9 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **nisha.prabhuswami@gmail.com**
 
-- 📄 Know about my experiences [Nisha.p-BE.pdf](Nisha.p-BE.pdf)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1v9qV9_DnioDt8WZolN8eEWYW4x9QBhYE/view](https://drive.google.com/file/d/1v9qV9_DnioDt8WZolN8eEWYW4x9QBhYE/view)
 
 - ⚡ Fun fact **I Think I'M funny**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -46,5 +28,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishap24&show_icons=true&locale=en" alt="nishap24" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishap24&" alt="nishap24" /></p>
-
-
