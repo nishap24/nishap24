@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nisha.prabhuswami@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v9qV9_DnioDt8WZolN8eEWYW4x9QBhYE/view](https://drive.google.com/file/d/1v9qV9_DnioDt8WZolN8eEWYW4x9QBhYE/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zhXsNhOoT6eI59YlYI311tBwNrJtWWDz/view?usp=sharing](https://drive.google.com/file/d/1zhXsNhOoT6eI59YlYI311tBwNrJtWWDz/view?usp=sharing)
 
 - ⚡ Fun fact **I Think I'M funny**
 
